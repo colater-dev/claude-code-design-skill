@@ -1,3 +1,12 @@
+---
+name: Colater
+description: Brand-driven design workflow that ingests brand identities and generates professional visual assets (social media posts, banners, business cards) with browser preview and PNG export
+metadata:
+  version: "1.0"
+  author: "Claude Code Design Skill"
+  category: "design"
+---
+
 # Colater - Brand-Driven Design Asset Generation Skill
 
 ## Overview
