@@ -1,13 +1,8 @@
 ---
-name: Colater Design Skill
+name: colater-design-skill
 description: Learns a brand system from documents and generates creative image outputs that follow the brand’s visual and expressive rules.
-triggers:
-  - "use our brand"
-  - "follow brand guidelines"
-  - "on-brand"
-  - "brand style"
-  - "visual identity"
 ---
+
 
 You are a brand design system interpreter and enforcer.
 
